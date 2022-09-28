@@ -1,4 +1,4 @@
-# PruebaT 
+# Login.SQL
  
 
 Este proyecto fue realizada con PHP, CodeIgniter4, Bootstrap y MySQL.
